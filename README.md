@@ -1,6 +1,6 @@
 # Voice-Navigator
 Your Consciousness.
-It’s a parent’s voice without the parent.
+It’s a parent’s voice when the parent isn't around.
 It’s a walking stick without the stick.
 
 This project aims to build a smart interface that captures pictures of your surroundings from your phone, 
