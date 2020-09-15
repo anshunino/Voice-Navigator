@@ -1,5 +1,5 @@
 # Voice-Navigator
-Your Consciousness
+Your Consciousness.
 It’s a parent’s voice without the parent.
 It’s a walking stick without the stick.
 
