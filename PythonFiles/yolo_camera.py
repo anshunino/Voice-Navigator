@@ -42,8 +42,8 @@ def yolo_cam(language):
     with open('yolo-coco-data/coco.names') as f:    
         labels = [line.strip() for line in f]
 
-    network = cv2.dnn.readNetFromDarknet('yolo-coco-data/yolov3.cfg',
-                                     'yolo-coco-data/yolov3.weights')
+    network = cv2.dnn.readNetFromDarknet('yolo-coc-data/yolov3.cfg',
+                                     'yolo-coc-data/yolov3.weights')
 
     layers_names_all = network.getLayerNames()
 
