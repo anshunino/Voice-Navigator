@@ -1,12 +1,10 @@
-# Voice-Navigator
-Your Consciousness.
-It’s a parent’s voice when the parent isn't around.
-It’s a walking stick without the stick.
+## Download the model from Google drive link and add to same folder (add all 4 files). 
+### pip install the requirements.txt file inside virtual environment
 
-This project builds a smart interface that captures pictures of your surroundings,
-recognises objects lying around, perceives their 3D depth and tells you all about them as you move around.
-This gives you a sense of direction and judgement of motion of any person who needs technical assistance in moving about.
+https://drive.google.com/drive/folders/1Uy-iHYR52hgTKRAI2b2KbIhAusjEA05L?usp=sharing
 
-PPT link: https://docs.google.com/presentation/d/1-MM_Hfxjozg8s0kwolBSrW3YGDCsHIrH03xPskpl9Fs/edit?usp=sharing
 
-Install the following requirements in the main folder: https://drive.google.com/drive/folders/1HfE8Q7ZpU6IFrcsgvc4VbiK2BASPztwL?usp=sharing
+### Further Project explaination (PPT): https://docs.google.com/presentation/d/1-MM_Hfxjozg8s0kwolBSrW3YGDCsHIrH03xPskpl9Fs/edit?usp=sharing
+
+
+```

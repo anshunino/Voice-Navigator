@@ -1,0 +1,1 @@
+Objects in increasing order of distance from user are person, and tvmonitor 
