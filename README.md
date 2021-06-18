@@ -1,11 +1,6 @@
-## Download the model from Google drive link and add to same folder (add all 4 files). 
-### pip install the requirements.txt file inside virtual environment
-
-https://drive.google.com/drive/folders/1Uy-iHYR52hgTKRAI2b2KbIhAusjEA05L?usp=sharing
-
 
 ### Further Project explaination (PPT): https://docs.google.com/presentation/d/1-MM_Hfxjozg8s0kwolBSrW3YGDCsHIrH03xPskpl9Fs/edit?usp=sharing
 
-Demo: <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6789912917052653569" height="1065" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+### Recorded Demo: https://www.linkedin.com/posts/istenitk_the-aim-of-iste-crypt-members-for-this-project-ugcPost-6789912917052653569-UWkV
 
-```
+### Download both files into main folder before execution: https://drive.google.com/drive/folders/1HfE8Q7ZpU6IFrcsgvc4VbiK2BASPztwL?usp=sharing
