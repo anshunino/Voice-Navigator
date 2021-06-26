@@ -1,1 +1,1 @@
-The object infront of the user is a person
+Objects in increasing order of distance from user are cell phone, and person 
