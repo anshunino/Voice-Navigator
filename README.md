@@ -10,7 +10,7 @@ https://www.linkedin.com/posts/istenitk_the-aim-of-iste-crypt-members-for-this-p
 https://drive.google.com/drive/folders/1HfE8Q7ZpU6IFrcsgvc4VbiK2BASPztwL?usp=sharing
 
 ## Results:
-<p align="center">
+<p align="left">
   <img src="https://github.com/anshuman03sinha/Voice-Navigator/blob/master/static/VoiceNavigator.jpg" width="400" height="750" alt="Anshuman_VoiceNavigator_Result">
 </p>
 
