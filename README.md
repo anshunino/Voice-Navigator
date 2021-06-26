@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1HfE8Q7ZpU6IFrcsgvc4VbiK2BASPztwL?usp=sha
 
 ## Results:
 <p align="center">
-  <img src="https://github.com/anshuman03sinha/Voice-Navigator/blob/master/static/VoiceNavigator.jpg" width="400" height="790" alt="Anshuman_VoiceNavigator_Result">
+  <img src="https://github.com/anshuman03sinha/Voice-Navigator/blob/master/static/VoiceNavigator.jpg" width="400" height="750" alt="Anshuman_VoiceNavigator_Result">
 </p>
 
 ## Cited:
