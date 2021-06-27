@@ -14,6 +14,9 @@ https://drive.google.com/drive/folders/1HfE8Q7ZpU6IFrcsgvc4VbiK2BASPztwL?usp=sha
   <img src="https://github.com/anshuman03sinha/Voice-Navigator/blob/master/static/VoiceNavigator.jpg" width="400" height="750" alt="Anshuman_VoiceNavigator_Result">
 </p>
 
+Objects in increasing order of distance from user are cell phone, and person 
+
+
 ## Cited:
 @article{Alhashim2018,
   author    = {Ibraheem Alhashim and Peter Wonka},
