@@ -1,4 +1,4 @@
-### Voice Navigator Project
+# Voice Navigator Project
 
 ## Project Presentation: 
 https://docs.google.com/presentation/d/1-MM_Hfxjozg8s0kwolBSrW3YGDCsHIrH03xPskpl9Fs/edit?usp=sharing
